@@ -7,12 +7,9 @@
 -- Wendy
 -- unnamed
 
--- CREATE TABLE bears 
---   (id INTEGER PRIMARY KEY, 
---   name TEXT,
---   age INTEGER,
---   gender TEXT,
---   color TEXT,
---   temperament TEXT,
---   alive BOOLEAN);
+
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
+  VALUES ("Mr. Chocolate", "4", "male", "brown", "happy", "TRUE")
+  
+  
 
