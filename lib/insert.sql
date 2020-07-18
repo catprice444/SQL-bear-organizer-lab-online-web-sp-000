@@ -1,4 +1,4 @@
--- Mr. Chocolate
+
 -- Rowdy
 -- Tabitha
 -- Sergeant Brown
