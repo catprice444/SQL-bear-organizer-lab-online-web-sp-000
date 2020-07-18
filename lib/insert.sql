@@ -1,8 +1,9 @@
 -- Mr. Chocolate
--- * Rowdy
--- * Tabitha
--- * Sergeant Brown
--- * Melissa
--- * Grinch
--- * Wendy
--- * unnamed
+-- Rowdy
+-- Tabitha
+-- Sergeant Brown
+-- Melissa
+-- Grinch
+-- Wendy
+-- unnamed
+
