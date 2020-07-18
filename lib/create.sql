@@ -7,4 +7,6 @@
 -- temperament	text
 -- alive	boolean
 
-CREATE TABLE bears (id INTEGER PRIMARY KEY, id INTEGER, )
+CREATE TABLE bears 
+  (id INTEGER PRIMARY KEY, 
+  id INTEGER, )
